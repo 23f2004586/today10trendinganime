@@ -22,9 +22,8 @@ jobs:
       - name: Fetch and Format Anime List
         run: |
           curl -s "https://api.jikan.moe/v4/top/anime?filter=airing&limit=10" \
-          | jq -r '.data | "### 📈 Top 10 Trending Anime\n" + (.[] | "\(.rank). [\(.title)](https://myanimelist.net/anime/\(.mal_id)) - Score: \(.score // "N/A")")' \
+          | jq -r '"### 📈 Top 10 Today's Trending Animes\n" + (.data | map("\(.rank). [\(.title)](https://myanimelist.net/anime/\(.mal_id)) - Score: \(.score // "N/A")") | join("\n"))' \
           > ANIME_LIST.md
-
       # Step 3: Update the README.md file with the new list
       # This uses Python to reliably replace the content between the start/end markers.
       - name: Update README
