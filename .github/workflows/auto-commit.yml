@@ -63,8 +63,10 @@ jobs:
       # This will commit both the updated README and the new archive file.
       - name: Commit and Push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # This configures git to use your GitHub username and a no-reply email
+          git config --global user.name '${{ github.actor }}'
+          git config --global user.email '${{ github.actor }}@users.noreply.github.com'
+          
           # Add, commit, and push only if there are changes
           if [[ -n $(git status -s) ]]; then
             git add .
