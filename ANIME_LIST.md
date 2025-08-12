@@ -1,4 +1,3 @@
-<!-- ANIME_LIST_START -->
 ### 📈 Top 10 Trending Anime
 
 *Last updated on: Tue Aug 12 23:45:45 IST 2025*
@@ -13,5 +12,3 @@
 179. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.44
 188. [Tu Bian Yingxiong X](https://myanimelist.net/anime/53447) - Score: 8.43
 216. [Sono Bisque Doll wa Koi wo Suru Season 2](https://myanimelist.net/anime/53065) - Score: 8.39
-
-<!-- ANIME_LIST_END -->
