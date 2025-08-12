@@ -1,5 +1,5 @@
-# This workflow automatically fetches the top 10 trending anime from the Jikan API
-# and updates the README.md file on a daily schedule. No API key is needed.
+# This workflow automatically fetches the top 10 trending anime from the Jikan API,
+# updates the README.md file, and archives a copy of the README on a daily schedule.
 
 name: Update Trending Anime List
 
@@ -18,17 +18,16 @@ jobs:
         uses: actions/checkout@v3
 
       # Step 2: Fetch Top 10 Trending Anime and Format List
-      # This step creates the header, then fetches data and appends the formatted list.
+      # This step creates the header, adds a timestamp, then appends the formatted list.
       - name: Fetch and Format Anime List
         run: |
           echo "### 📈 Top 10 Trending Anime" > ANIME_LIST.md
+          echo "" >> ANIME_LIST.md
+          echo "*Last updated on: $(TZ='Asia/Kolkata' date)*" >> ANIME_LIST.md
+          echo "" >> ANIME_LIST.md
           curl -s "https://api.jikan.moe/v4/top/anime?filter=airing&limit=10" \
           | jq -r '.data | map("\(.rank). [\(.title)](https://myanimelist.net/anime/\(.mal_id)) - Score: \(.score // "N/A")") | join("\n")' \
           >> ANIME_LIST.md
-
-      # NEW DEBUGGING STEP: This will show us what the API returned.
-      - name: Display API Output
-        run: cat ANIME_LIST.md
 
       # Step 3: Update the README.md file with the new list
       # This uses Python to reliably replace the content between the start/end markers.
@@ -51,15 +50,24 @@ jobs:
               f.truncate()
           "
 
-      # Step 4: Commit and Push the changes
-      # Remember to add your Personal Access Token (PAT) as a secret named ACTION_PAT
-      - name: Commit and Push
+      # Step 4: Archive the updated README file
+      # This step creates an 'archive' directory and copies the updated README into it
+      # with a timestamped filename.
+      - name: Archive updated README
+        run: |
+          mkdir -p archive
+          TIMESTAMP=$(TZ='Asia/Kolkata' date +'%Y-%m-%d_%H-%M-%S')
+          cp README.md archive/$TIMESTAMP.md
+
+      # Step 5: Commit and Push the changes
+      # This will commit both the updated README and the new archive file.
+      - name: Commit and Push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           # Add, commit, and push only if there are changes
           if [[ -n $(git status -s) ]]; then
-            git add README.md
+            git add .
             git commit -m "Automated update: Top 10 trending anime"
             git push https://${{ secrets.ACTION_PAT }}@github.com/${{ github.repository }}.git HEAD:main
           else
