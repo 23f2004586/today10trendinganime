@@ -1,0 +1,62 @@
+#This workflow automatically fetches the top 10 trending anime from the Jikan API
+# and updates the README.md file on a daily schedule. No API key is needed.
+
+name: Update Trending Anime List
+on:
+  schedule:
+    # Runs every day at 11 pm IST.
+    - cron: '30 17 * * *'
+  workflow_dispatch:
+
+jobs:
+  update_readme_with_anime:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out your repository's code
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Fetch Top 10 Trending Anime and Format List
+      # This step uses curl to get data from the Jikan API (no key required)
+      # and jq to parse the JSON and format it into a markdown list.
+      - name: Fetch and Format Anime List
+        run: |
+          curl -s "https://api.jikan.moe/v4/top/anime?filter=airing&limit=10" \
+          | jq -r '.data | "### 📈 Top 10 Trending Anime\n" + (.[] | "\(.rank). [\(.title)](https://myanimelist.net/anime/\(.mal_id)) - Score: \(.score // "N/A")")' \
+          > ANIME_LIST.md
+
+      # Step 3: Update the README.md file with the new list
+      # This uses Python to reliably replace the content between the start/end markers.
+      - name: Update README
+        run: |
+          python -c "
+          import re
+          with open('README.md', 'r+') as f:
+              readme = f.read()
+              with open('ANIME_LIST.md', 'r') as new_content_file:
+                  new_content = new_content_file.read()
+              # Use regex to replace content between markers
+              updated_readme = re.sub(
+                  r'(<!-- ANIME_LIST_START -->)(.|\n)*?(<!-- ANIME_LIST_END -->)',
+                  r'<!-- ANIME_LIST_START -->\n' + new_content + '\n<!-- ANIME_LIST_END -->',
+                  readme
+              )
+              f.seek(0)
+              f.write(updated_readme)
+              f.truncate()
+          "
+
+      # Step 4: Commit and Push the changes
+      # Remember to add your Personal Access Token (PAT) as a secret named ACTION_PAT
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Add, commit, and push only if there are changes
+          if [[ -n $(git status -s) ]]; then
+            git add README.md
+            git commit -m "Automated update: Top 10 trending anime"
+            git push https://${{ secrets.ACTION_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+          else
+            echo "No changes to commit."
+          fi
