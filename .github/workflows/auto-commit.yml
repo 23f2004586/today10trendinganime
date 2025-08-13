@@ -1,4 +1,6 @@
-#
+# This workflow automatically fetches the top 10 trending anime from the Jikan API,
+# updates the README.md file, and archives a copy of the README on a daily schedule.
+
 name: Update Trending Anime List
 
 on:
@@ -29,24 +31,34 @@ jobs:
           >> ANIME_LIST.md
 
       # Step 3: Update the README.md file with the new list
-      # This uses Python to reliably replace the content between the start/end markers.
+      # This uses a more robust Python script to replace the content between the markers.
       - name: Update README
         run: |
           python -c "
           import re
-          with open('README.md', 'r+') as f:
-              readme = f.read()
-              with open('ANIME_LIST.md', 'r') as new_content_file:
-                  new_content = new_content_file.read()
-              # Use regex to replace content between markers
-              updated_readme = re.sub(
-                  r'()(.|\n)*?()',
-                  r'\n' + new_content + '\n',
-                  readme
-              )
-              f.seek(0)
-              f.write(updated_readme)
-              f.truncate()
+          
+          # Read the content from the new anime list file
+          with open('ANIME_LIST.md', 'r') as f:
+              anime_list_content = f.read()
+          
+          # Read the content of the README file
+          with open('README.md', 'r') as f:
+              readme_content = f.read()
+
+          # Define the replacement block using an f-string for clarity
+          replacement = f'<!-- ANIME_LIST_START -->\\n{anime_list_content}\\n<!-- ANIME_LIST_END -->'
+          
+          # Use re.DOTALL to make '.' match newlines, which is more reliable
+          new_readme_content = re.sub(
+              r'<!-- ANIME_LIST_START -->.*?<!-- ANIME_LIST_END -->',
+              replacement,
+              readme_content,
+              flags=re.DOTALL
+          )
+          
+          # Write the updated content back to the README file
+          with open('README.md', 'w') as f:
+              f.write(new_readme_content)
           "
 
       # Step 4: Archive the updated README file
@@ -54,6 +66,7 @@ jobs:
       # with a timestamped filename.
       - name: Archive updated README
         run: |
+          mkdir -p archive
           TIMESTAMP=$(TZ='Asia/Kolkata' date +'%Y-%m-%d_%H-%M-%S')
           cp README.md archive/$TIMESTAMP.md
 
