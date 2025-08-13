@@ -1,12 +1,11 @@
-# This workflow automatically fetches the top 10 trending anime from the Jikan API,
-# updates the README.md file, and archives a copy of the README on a daily schedule.
-
+#
 name: Update Trending Anime List
 
 on:
   schedule:
-    # Runs every day at 17:30 UTC (11:00 PM IST).
-    - cron: '30 17 * * *'
+    # Runs at 00:30 UTC (6:00 AM IST) and 12:30 UTC (6:00 PM IST).
+    - cron: '30 0 * * *'
+    - cron: '30 12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -41,8 +40,8 @@ jobs:
                   new_content = new_content_file.read()
               # Use regex to replace content between markers
               updated_readme = re.sub(
-                  r'(<!-- ANIME_LIST_START -->)(.|\n)*?(<!-- ANIME_LIST_END -->)',
-                  r'<!-- ANIME_LIST_START -->\n' + new_content + '\n<!-- ANIME_LIST_END -->',
+                  r'()(.|\n)*?()',
+                  r'\n' + new_content + '\n',
                   readme
               )
               f.seek(0)
@@ -55,7 +54,6 @@ jobs:
       # with a timestamped filename.
       - name: Archive updated README
         run: |
-          mkdir -p archive
           TIMESTAMP=$(TZ='Asia/Kolkata' date +'%Y-%m-%d_%H-%M-%S')
           cp README.md archive/$TIMESTAMP.md
 
@@ -64,6 +62,7 @@ jobs:
       - name: Commit and Push changes
         run: |
           # This configures git to use your GitHub username and a no-reply email
+          # so the commit is attributed to your profile.
           git config --global user.name '${{ github.actor }}'
           git config --global user.email '${{ github.actor }}@users.noreply.github.com'
           
