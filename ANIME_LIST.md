@@ -1,8 +1,8 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Mon Aug 18 18:38:16 IST 2025*
+*Last updated on: Tue Aug 19 07:48:24 IST 2025*
 
-39. [Kimetsu no Yaiba Movie: Mugen Jou-hen](https://myanimelist.net/anime/59192) - Score: 8.77
+37. [Kimetsu no Yaiba Movie: Mugen Jou-hen](https://myanimelist.net/anime/59192) - Score: 8.78
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 50. [Kaoru Hana wa Rin to Saku](https://myanimelist.net/anime/59845) - Score: 8.73
 70. [Grand Blue Season 2](https://myanimelist.net/anime/59986) - Score: 8.68
