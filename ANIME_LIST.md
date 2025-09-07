@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sat Sep  6 18:23:22 IST 2025*
+*Last updated on: Sun Sep  7 07:44:23 IST 2025*
 
 37. [Kimetsu no Yaiba Movie: Mugen Jou-hen](https://myanimelist.net/anime/59192) - Score: 8.78
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
@@ -9,6 +9,6 @@
 125. [Dandadan 2nd Season](https://myanimelist.net/anime/60543) - Score: 8.55
 166. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.46
 167. [Tu Bian Yingxiong X](https://myanimelist.net/anime/53447) - Score: 8.46
-180. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.44
-216. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.39
-245. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.36
+182. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.44
+214. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.39
+241. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.36
