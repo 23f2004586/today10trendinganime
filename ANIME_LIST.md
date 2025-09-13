@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sat Sep 13 07:25:13 IST 2025*
+*Last updated on: Sat Sep 13 18:24:03 IST 2025*
 
 35. [Kimetsu no Yaiba Movie: Mugen Jou-hen](https://myanimelist.net/anime/59192) - Score: 8.79
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
@@ -11,4 +11,4 @@
 168. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.46
 182. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.44
 214. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.39
-243. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.37
+229. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.37
