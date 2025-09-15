@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sun Sep 14 18:23:16 IST 2025*
+*Last updated on: Mon Sep 15 07:46:02 IST 2025*
 
 35. [Kimetsu no Yaiba Movie: Mugen Jou-hen](https://myanimelist.net/anime/59192) - Score: 8.79
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
