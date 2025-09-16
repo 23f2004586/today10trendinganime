@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Tue Sep 16 07:37:10 IST 2025*
+*Last updated on: Tue Sep 16 18:31:41 IST 2025*
 
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 68. [Kaoru Hana wa Rin to Saku](https://myanimelist.net/anime/59845) - Score: 8.69
