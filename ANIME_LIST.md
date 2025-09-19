@@ -1,10 +1,10 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Thu Sep 18 18:31:03 IST 2025*
+*Last updated on: Fri Sep 19 07:40:47 IST 2025*
 
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 69. [Kaoru Hana wa Rin to Saku](https://myanimelist.net/anime/59845) - Score: 8.68
-74. [Grand Blue Season 2](https://myanimelist.net/anime/59986) - Score: 8.67
+73. [Grand Blue Season 2](https://myanimelist.net/anime/59986) - Score: 8.67
 124. [Dandadan 2nd Season](https://myanimelist.net/anime/60543) - Score: 8.55
 168. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.46
 182. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.44
