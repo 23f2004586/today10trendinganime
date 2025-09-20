@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Fri Sep 19 18:30:12 IST 2025*
+*Last updated on: Sat Sep 20 07:29:29 IST 2025*
 
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 68. [Kaoru Hana wa Rin to Saku](https://myanimelist.net/anime/59845) - Score: 8.68
@@ -11,4 +11,4 @@
 214. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.39
 218. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.38
 243. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.36
-259. [Sono Bisque Doll wa Koi wo Suru Season 2](https://myanimelist.net/anime/53065) - Score: 8.34
+260. [Sono Bisque Doll wa Koi wo Suru Season 2](https://myanimelist.net/anime/53065) - Score: 8.34
