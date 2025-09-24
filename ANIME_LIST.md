@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Wed Sep 24 07:38:28 IST 2025*
+*Last updated on: Wed Sep 24 18:31:59 IST 2025*
 
 53. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 69. [Kaoru Hana wa Rin to Saku](https://myanimelist.net/anime/59845) - Score: 8.68
@@ -11,4 +11,4 @@
 218. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.38
 244. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.36
 359. [Seishun Buta Yarou wa Santa Claus no Yume wo Minai](https://myanimelist.net/anime/57433) - Score: 8.24
-384. [Fanren Xiu Xian Chuan: Waihai Fengyun](https://myanimelist.net/anime/60557) - Score: 8.22
+385. [Fanren Xiu Xian Chuan: Waihai Fengyun](https://myanimelist.net/anime/60557) - Score: 8.22
