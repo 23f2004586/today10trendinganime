@@ -1,9 +1,9 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Mon Sep 29 18:33:21 IST 2025*
+*Last updated on: Tue Sep 30 07:37:07 IST 2025*
 
 55. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
-168. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.47
+162. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.47
 182. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.44
 216. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.39
 219. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.39
