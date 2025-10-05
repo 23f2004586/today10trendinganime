@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sun Oct  5 07:47:29 IST 2025*
+*Last updated on: Sun Oct  5 18:25:13 IST 2025*
 
 53. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 167. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.46
