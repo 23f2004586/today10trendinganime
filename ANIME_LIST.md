@@ -1,8 +1,8 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Mon Oct 13 07:47:07 IST 2025*
+*Last updated on: Mon Oct 13 18:33:30 IST 2025*
 
-38. [Kingdom 6th Season](https://myanimelist.net/anime/61517) - Score: 8.79
+33. [Kingdom 6th Season](https://myanimelist.net/anime/61517) - Score: 8.82
 54. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 170. [Boku no Hero Academia: Final Season](https://myanimelist.net/anime/60098) - Score: 8.46
 174. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.46
