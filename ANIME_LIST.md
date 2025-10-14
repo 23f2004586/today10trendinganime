@@ -1,14 +1,14 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Mon Oct 13 18:33:30 IST 2025*
+*Last updated on: Tue Oct 14 07:39:35 IST 2025*
 
 33. [Kingdom 6th Season](https://myanimelist.net/anime/61517) - Score: 8.82
 54. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
-170. [Boku no Hero Academia: Final Season](https://myanimelist.net/anime/60098) - Score: 8.46
+166. [Boku no Hero Academia: Final Season](https://myanimelist.net/anime/60098) - Score: 8.47
 174. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.46
 187. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.44
-222. [Uma Musume: Cinderella Gray Part 2](https://myanimelist.net/anime/61930) - Score: 8.39
-219. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.39
+221. [Uma Musume: Cinderella Gray Part 2](https://myanimelist.net/anime/61930) - Score: 8.39
+217. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.39
 217. [3-nen Z-gumi Ginpachi-sensei](https://myanimelist.net/anime/54757) - Score: 8.39
 222. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.39
 252. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.36
