@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Thu Oct 16 18:34:14 IST 2025*
+*Last updated on: Fri Oct 17 07:40:26 IST 2025*
 
 33. [Kingdom 6th Season](https://myanimelist.net/anime/61517) - Score: 8.83
 54. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
@@ -11,4 +11,4 @@
 218. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.39
 217. [3-nen Z-gumi Ginpachi-sensei](https://myanimelist.net/anime/54757) - Score: 8.39
 216. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.39
-245. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.36
+246. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.36
