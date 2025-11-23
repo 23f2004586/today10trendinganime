@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sun Nov 23 08:03:14 IST 2025*
+*Last updated on: Sun Nov 23 18:26:24 IST 2025*
 
 6. [Kingdom 6th Season](https://myanimelist.net/anime/61517) - Score: 9.05
 35. [Boku no Hero Academia: Final Season](https://myanimelist.net/anime/60098) - Score: 8.81
@@ -11,4 +11,4 @@
 187. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.44
 209. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.41
 222. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.38
-277. [Fanren Xiu Xian Chuan: Waihai Fengyun](https://myanimelist.net/anime/60557) - Score: 8.32
+275. [Fanren Xiu Xian Chuan: Waihai Fengyun](https://myanimelist.net/anime/60557) - Score: 8.33
