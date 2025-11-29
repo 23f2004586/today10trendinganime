@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sat Nov 29 07:46:38 IST 2025*
+*Last updated on: Sat Nov 29 18:30:31 IST 2025*
 
 6. [Kingdom 6th Season](https://myanimelist.net/anime/61517) - Score: 9.05
 27. [Boku no Hero Academia: Final Season](https://myanimelist.net/anime/60098) - Score: 8.87
