@@ -1,9 +1,9 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Fri Dec 12 18:38:02 IST 2025*
+*Last updated on: Sat Dec 13 07:49:18 IST 2025*
 
 6. [Kingdom 6th Season](https://myanimelist.net/anime/61517) - Score: 9.05
-26. [Boku no Hero Academia: Final Season](https://myanimelist.net/anime/60098) - Score: 8.88
+27. [Boku no Hero Academia: Final Season](https://myanimelist.net/anime/60098) - Score: 8.87
 51. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 135. [Uma Musume: Cinderella Gray Part 2](https://myanimelist.net/anime/61930) - Score: 8.54
 166. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.47
