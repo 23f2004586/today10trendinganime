@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Wed Dec 17 18:39:57 IST 2025*
+*Last updated on: Thu Dec 18 07:53:09 IST 2025*
 
 6. [Kingdom 6th Season](https://myanimelist.net/anime/61517) - Score: 9.05
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
@@ -11,4 +11,4 @@
 189. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.43
 234. [Fanren Xiu Xian Chuan: Waihai Fengyun](https://myanimelist.net/anime/60557) - Score: 8.38
 239. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.37
-364. [Spy x Family Season 3](https://myanimelist.net/anime/59027) - Score: 8.24
+355. [Shen Yin Wangzuo 2nd Season](https://myanimelist.net/anime/52684) - Score: 8.25
