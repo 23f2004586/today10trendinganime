@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Tue Dec 23 18:38:46 IST 2025*
+*Last updated on: Wed Dec 24 07:55:52 IST 2025*
 
 8. [Kingdom 6th Season](https://myanimelist.net/anime/61517) - Score: 9.04
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
