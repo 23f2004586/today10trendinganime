@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Fri Jan  2 18:36:11 IST 2026*
+*Last updated on: Sat Jan  3 07:53:50 IST 2026*
 
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 158. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.5
@@ -10,5 +10,5 @@
 220. [Fanren Xiu Xian Chuan: Waihai Fengyun](https://myanimelist.net/anime/60557) - Score: 8.39
 226. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.38
 375. [Mushen Ji](https://myanimelist.net/anime/59953) - Score: 8.24
-386. [Shen Yin Wangzuo 2nd Season](https://myanimelist.net/anime/52684) - Score: 8.23
+384. [Shen Yin Wangzuo 2nd Season](https://myanimelist.net/anime/52684) - Score: 8.23
 null. [MILGЯAM](https://myanimelist.net/anime/47794) - Score: 8.22
