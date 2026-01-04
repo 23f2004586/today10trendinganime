@@ -1,14 +1,14 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sat Jan  3 18:33:49 IST 2026*
+*Last updated on: Sun Jan  4 08:12:49 IST 2026*
 
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 158. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.5
-182. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.45
+183. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.45
 188. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.44
 189. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.44
+203. [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://myanimelist.net/anime/56009) - Score: 8.43
 220. [Fanren Xiu Xian Chuan: Waihai Fengyun](https://myanimelist.net/anime/60557) - Score: 8.39
-226. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.38
+227. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.38
 360. [Mushen Ji](https://myanimelist.net/anime/59953) - Score: 8.25
-384. [Shen Yin Wangzuo 2nd Season](https://myanimelist.net/anime/52684) - Score: 8.23
-null. [MILGЯAM](https://myanimelist.net/anime/47794) - Score: 8.22
+386. [Shen Yin Wangzuo 2nd Season](https://myanimelist.net/anime/52684) - Score: 8.23
