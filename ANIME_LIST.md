@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Tue Jan  6 18:39:47 IST 2026*
+*Last updated on: Wed Jan  7 08:00:54 IST 2026*
 
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 140. [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://myanimelist.net/anime/56009) - Score: 8.53
