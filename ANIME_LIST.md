@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sat Jan 10 18:33:52 IST 2026*
+*Last updated on: Sun Jan 11 08:12:13 IST 2026*
 
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 79. [Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen](https://myanimelist.net/anime/57658) - Score: 8.66
