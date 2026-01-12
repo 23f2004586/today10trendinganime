@@ -1,10 +1,10 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sun Jan 11 18:35:02 IST 2026*
+*Last updated on: Mon Jan 12 08:07:44 IST 2026*
 
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 78. [Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen](https://myanimelist.net/anime/57658) - Score: 8.67
-154. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.51
+153. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.51
 153. [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://myanimelist.net/anime/56009) - Score: 8.51
 184. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.45
 185. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.45
