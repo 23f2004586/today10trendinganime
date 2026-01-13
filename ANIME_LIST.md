@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Mon Jan 12 18:42:53 IST 2026*
+*Last updated on: Tue Jan 13 07:59:05 IST 2026*
 
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 78. [Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen](https://myanimelist.net/anime/57658) - Score: 8.67
@@ -9,6 +9,6 @@
 184. [Tian Guan Cifu Short Film](https://myanimelist.net/anime/60988) - Score: 8.45
 191. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.44
 196. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.43
-229. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.38
+230. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.38
 224. [Fate/strange Fake](https://myanimelist.net/anime/55830) - Score: 8.38
 364. [Mushen Ji](https://myanimelist.net/anime/59953) - Score: 8.25
