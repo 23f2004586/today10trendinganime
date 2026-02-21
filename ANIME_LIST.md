@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sat Feb 21 08:36:39 IST 2026*
+*Last updated on: Sat Feb 21 18:44:25 IST 2026*
 
 2. [Sousou no Frieren 2nd Season](https://myanimelist.net/anime/59978) - Score: 9.19
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
