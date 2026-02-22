@@ -1,11 +1,11 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sun Feb 22 08:50:14 IST 2026*
+*Last updated on: Sun Feb 22 18:53:00 IST 2026*
 
 2. [Sousou no Frieren 2nd Season](https://myanimelist.net/anime/59978) - Score: 9.19
 52. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 102. [Ikoku Nikki](https://myanimelist.net/anime/58788) - Score: 8.61
-112. [Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen](https://myanimelist.net/anime/57658) - Score: 8.59
+110. [Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen](https://myanimelist.net/anime/57658) - Score: 8.59
 146. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.53
 145. [[Oshi no Ko] 3rd Season](https://myanimelist.net/anime/60058) - Score: 8.53
 158. [Fate/strange Fake](https://myanimelist.net/anime/55830) - Score: 8.51
