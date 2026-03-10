@@ -1,8 +1,8 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Mon Mar  9 19:12:17 IST 2026*
+*Last updated on: Tue Mar 10 08:40:06 IST 2026*
 
-2. [Sousou no Frieren 2nd Season](https://myanimelist.net/anime/59978) - Score: 9.16
+2. [Sousou no Frieren 2nd Season](https://myanimelist.net/anime/59978) - Score: 9.15
 51. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 66. [Ikoku Nikki](https://myanimelist.net/anime/58788) - Score: 8.69
 113. [[Oshi no Ko] 3rd Season](https://myanimelist.net/anime/60058) - Score: 8.59
@@ -11,4 +11,4 @@
 158. [Fate/strange Fake](https://myanimelist.net/anime/55830) - Score: 8.51
 175. [Tian Guan Cifu Short Films](https://myanimelist.net/anime/60988) - Score: 8.47
 184. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.46
-200. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.43
+193. [Medalist 2nd Season](https://myanimelist.net/anime/61335) - Score: 8.44
