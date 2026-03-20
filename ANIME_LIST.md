@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Fri Mar 20 08:44:12 IST 2026*
+*Last updated on: Fri Mar 20 19:07:10 IST 2026*
 
 1. [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469) - Score: 9.37
 3. [Sousou no Frieren 2nd Season](https://myanimelist.net/anime/59978) - Score: 9.14
