@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sun Apr 12 09:19:48 IST 2026*
+*Last updated on: Sun Apr 12 19:06:46 IST 2026*
 
 2. [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469) - Score: 9.16
 54. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
