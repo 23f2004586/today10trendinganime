@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Tue May 12 20:46:13 IST 2026*
+*Last updated on: Wed May 13 09:57:32 IST 2026*
 
 2. [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469) - Score: 9.14
 23. [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316) - Score: 8.91
@@ -10,5 +10,5 @@
 168. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.5
 167. [Tian Guan Cifu Short Films](https://myanimelist.net/anime/60988) - Score: 8.5
 174. [Nippon Sangoku](https://myanimelist.net/anime/63375) - Score: 8.48
-183. [Dorohedoro Season 2](https://myanimelist.net/anime/57779) - Score: 8.46
+178. [Dorohedoro Season 2](https://myanimelist.net/anime/57779) - Score: 8.47
 272. [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524) - Score: 8.36
