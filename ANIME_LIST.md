@@ -1,9 +1,9 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Wed May 27 10:23:45 IST 2026*
+*Last updated on: Wed May 27 21:44:39 IST 2026*
 
-2. [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469) - Score: 9.13
-26. [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316) - Score: 8.9
+2. [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469) - Score: 9.14
+26. [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316) - Score: 8.89
 55. [Tongari Boushi no Atelier](https://myanimelist.net/anime/51553) - Score: 8.73
 54. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 94. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.63
