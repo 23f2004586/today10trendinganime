@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Fri Jul 10 10:01:08 IST 2026*
+*Last updated on: Fri Jul 10 20:37:26 IST 2026*
 
 2. [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316) - Score: 9.18
 4. [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469) - Score: 9.1
@@ -9,6 +9,6 @@
 115. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.59
 169. [Tian Guan Cifu Short Films](https://myanimelist.net/anime/60988) - Score: 8.5
 170. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.5
-176. [Super no Ura de Yani Suu Futari](https://myanimelist.net/anime/62076) - Score: 8.48
-228. [Youjo Senki II](https://myanimelist.net/anime/49233) - Score: 8.41
+181. [Super no Ura de Yani Suu Futari](https://myanimelist.net/anime/62076) - Score: 8.47
+207. [Youjo Senki II](https://myanimelist.net/anime/49233) - Score: 8.43
 220. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.41
