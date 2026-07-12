@@ -1,14 +1,14 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sun Jul 12 09:35:28 IST 2026*
+*Last updated on: Sun Jul 12 19:29:44 IST 2026*
 
-2. [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316) - Score: 9.18
+2. [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316) - Score: 9.17
 4. [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469) - Score: 9.1
-17. [Mushoku Tensei III: Isekai Ittara Honki Dasu](https://myanimelist.net/anime/59193) - Score: 8.98
+17. [Mushoku Tensei III: Isekai Ittara Honki Dasu](https://myanimelist.net/anime/59193) - Score: 8.96
 56. [One Piece](https://myanimelist.net/anime/21) - Score: 8.73
 115. [Chiikawa](https://myanimelist.net/anime/50250) - Score: 8.59
-169. [Tian Guan Cifu Short Films](https://myanimelist.net/anime/60988) - Score: 8.5
-170. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.5
-181. [Super no Ura de Yani Suu Futari](https://myanimelist.net/anime/62076) - Score: 8.47
-207. [Youjo Senki II](https://myanimelist.net/anime/49233) - Score: 8.43
-220. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.41
+168. [Tian Guan Cifu Short Films](https://myanimelist.net/anime/60988) - Score: 8.5
+169. [Xian Ni](https://myanimelist.net/anime/55809) - Score: 8.5
+190. [Super no Ura de Yani Suu Futari](https://myanimelist.net/anime/62076) - Score: 8.46
+203. [Youjo Senki II](https://myanimelist.net/anime/49233) - Score: 8.44
+218. [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039) - Score: 8.41
