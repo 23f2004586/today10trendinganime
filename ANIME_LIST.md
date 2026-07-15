@@ -1,6 +1,6 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Tue Jul 14 19:50:34 IST 2026*
+*Last updated on: Wed Jul 15 09:13:06 IST 2026*
 
 2. [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/anime/61316) - Score: 9.17
 4. [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469) - Score: 9.1
