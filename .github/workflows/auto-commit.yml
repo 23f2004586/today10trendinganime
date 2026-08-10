@@ -26,16 +26,31 @@ jobs:
           echo "*Last updated on: $(TZ='Asia/Kolkata' date)*" >> ANIME_LIST.md
           echo "" >> ANIME_LIST.md
           
-          # Fetch the data and store it in a variable
-          RESPONSE=$(curl -s "https://api.jikan.moe/v4/top/anime?filter=airing&limit=10")
+          # 1. Define the AniList GraphQL query (Top 10 Trending Anime)
+          QUERY='{"query": "query { Page(page: 1, perPage: 10) { media(type: ANIME, sort: TRENDING_DESC) { id title { romaji english } averageScore } } }"}'
           
-          # Check if the response actually contains the '.data' array
-          if echo "$RESPONSE" | jq -e '.data' > /dev/null; then
-            # Data exists, process it safely
-            echo "$RESPONSE" | jq -r '.data | map("\(.rank). [\(.title)](https://myanimelist.net/anime/\(.mal_id)) - Score: \(.score // \"N/A\")") | join("\n")' >> ANIME_LIST.md
+          # 2. Make a POST request to the AniList API
+          RESPONSE=$(curl -s -X POST \
+            -H 'Content-Type: application/json' \
+            -H 'Accept: application/json' \
+            -d "$QUERY" \
+            https://graphql.anilist.co)
+          
+          # 3. Check if the response was successful
+          if echo "$RESPONSE" | jq -e '.data.Page.media' > /dev/null; then
+            # Data exists! Parse it using jq. 
+            # Note: AniList scores are out of 100, and links will now point to anilist.co
+            echo "$RESPONSE" | jq -r '
+              .data.Page.media 
+              | to_entries 
+              | map("\(.key + 1). [\(.value.title.english // .value.title.romaji)](https://anilist.co/anime/\(.value.id)) - Score: \(.value.averageScore // \"N/A\")/100") 
+              | join("\n")
+            ' >> ANIME_LIST.md
+            
+            echo "Successfully fetched anime list from AniList!"
           else
-            # Print the actual API error to the GitHub Actions logs for debugging
-            echo "API Error: The Jikan API did not return the expected data. It may be rate-limited or down."
+            # If it fails, print the error to the logs
+            echo "API Error: Failed to fetch data from AniList."
             echo "Raw Response: $RESPONSE"
             exit 1
           fi
