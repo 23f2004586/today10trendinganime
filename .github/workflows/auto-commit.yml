@@ -43,7 +43,7 @@ jobs:
             echo "$RESPONSE" | jq -r '
               .data.Page.media 
               | to_entries 
-              | map("\(.key + 1). [\(.value.title.english // .value.title.romaji)](https://anilist.co/anime/\(.value.id)) - Score: \(.value.averageScore // \"N/A\")/100") 
+              | map("\(.key + 1). [\(.value.title.english // .value.title.romaji)](https://anilist.co/anime/\(.value.id)) - Score: \(.value.averageScore // "N/A")/100") 
               | join("\n")
             ' >> ANIME_LIST.md
             
