@@ -16,7 +16,7 @@ jobs:
     steps:
       # Step 1: Check out your repository's code
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       # Step 2: Fetch Top 10 Trending Anime and Format List
       # This step creates the header, adds a timestamp, then appends the formatted list.
@@ -34,7 +34,7 @@ jobs:
       # This uses a more robust Python script to replace the content between the markers.
       - name: Update README
         run: |
-          python -c "
+          python3 - <<'EOF'
           import re
           
           # Read the content from the new anime list file
@@ -46,7 +46,7 @@ jobs:
               readme_content = f.read()
 
           # Define the replacement block using an f-string for clarity
-          replacement = f'<!-- ANIME_LIST_START -->\\n{anime_list_content}\\n<!-- ANIME_LIST_END -->'
+          replacement = f'<!-- ANIME_LIST_START -->\n{anime_list_content}\n<!-- ANIME_LIST_END -->'
           
           # Use re.DOTALL to make '.' match newlines, which is more reliable
           new_readme_content = re.sub(
@@ -59,7 +59,7 @@ jobs:
           # Write the updated content back to the README file
           with open('README.md', 'w') as f:
               f.write(new_readme_content)
-          "
+          EOF
 
       # Step 4: Archive the updated README file
       # This step creates an 'archive' directory and copies the updated README into it
