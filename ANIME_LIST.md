@@ -1,14 +1,14 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Thu Aug 13 08:36:02 IST 2026*
+*Last updated on: Thu Aug 13 19:23:36 IST 2026*
 
 1. [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) - Score: 90/100
-2. [From Old Country Bumpkin to Master Swordsman II](https://anilist.co/anime/194829) - Score: 71/100
-3. [Saga of Tanya the Evil Season 2](https://anilist.co/anime/135865) - Score: 81/100
-4. [Clevatess Season 2](https://anilist.co/anime/198946) - Score: 75/100
+2. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
+3. [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2](https://anilist.co/anime/159309) - Score: 67/100
+4. [Saga of Tanya the Evil Season 2](https://anilist.co/anime/135865) - Score: 81/100
 5. [Tomb Raider King](https://anilist.co/anime/184356) - Score: 66/100
-6. [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2](https://anilist.co/anime/159309) - Score: 67/100
-7. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
-8. [The Villager of Level 999](https://anilist.co/anime/197715) - Score: 61/100
-9. [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) - Score: 85/100
-10. [Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!](https://anilist.co/anime/192800) - Score: 69/100
+6. [From Old Country Bumpkin to Master Swordsman II](https://anilist.co/anime/194829) - Score: 71/100
+7. [The Villager of Level 999](https://anilist.co/anime/197715) - Score: 61/100
+8. [Clevatess Season 2](https://anilist.co/anime/198946) - Score: 75/100
+9. [Bleach](https://anilist.co/anime/269) - Score: 79/100
+10. [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) - Score: 84/100
