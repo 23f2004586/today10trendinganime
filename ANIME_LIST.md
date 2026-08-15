@@ -1,14 +1,14 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Fri Aug 14 19:19:34 IST 2026*
+*Last updated on: Sat Aug 15 07:25:29 IST 2026*
 
-1. [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) - Score: 67/100
-2. [From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage](https://anilist.co/anime/208044) - Score: 65/100
-3. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
-4. [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) - Score: 82/100
-5. [Chainsmoker Cat](https://anilist.co/anime/207141) - Score: 67/100
-6. [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) - Score: 90/100
-7. [Bleach](https://anilist.co/anime/269) - Score: 79/100
-8. [KAIJU GIRL CARAMELISE](https://anilist.co/anime/204466) - Score: 75/100
-9. [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) - Score: 84/100
-10. [Saga of Tanya the Evil Season 2](https://anilist.co/anime/135865) - Score: 81/100
+1. [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) - Score: 82/100
+2. [HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2](https://anilist.co/anime/209983) - Score: 72/100
+3. [I Became a Legend After My 10 Year-Long Last Stand](https://anilist.co/anime/199748) - Score: 64/100
+4. [The Frontier Lord Begins with Zero Subjects](https://anilist.co/anime/196218) - Score: 67/100
+5. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
+6. [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) - Score: 67/100
+7. [Chainsmoker Cat](https://anilist.co/anime/207141) - Score: 67/100
+8. [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) - Score: 90/100
+9. [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) - Score: 82/100
+10. [The Elusive Samurai Season 2](https://anilist.co/anime/182616) - Score: 75/100
