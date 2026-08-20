@@ -1,14 +1,14 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Wed Aug 19 18:51:51 IST 2026*
+*Last updated on: Thu Aug 20 07:27:22 IST 2026*
 
-1. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
-2. [Clevatess Season 2](https://anilist.co/anime/198946) - Score: 75/100
-3. [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) - Score: 84/100
-4. [Bleach](https://anilist.co/anime/269) - Score: 79/100
-5. [I Want to Love You Till Your Dying Day](https://anilist.co/anime/187260) - Score: 74/100
-6. [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) - Score: 83/100
-7. [THE GHOST IN THE SHELL](https://anilist.co/anime/177699) - Score: 76/100
-8. [The Oblivious Saint Can't Contain Her Power](https://anilist.co/anime/196219) - Score: 63/100
-9. [Daemons of the Shadow Realm](https://anilist.co/anime/195600) - Score: 78/100
-10. [Grand Blue Dreaming Season 3](https://anilist.co/anime/199111) - Score: 81/100
+1. [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) - Score: 90/100
+2. [Saga of Tanya the Evil Season 2](https://anilist.co/anime/135865) - Score: 81/100
+3. [From Old Country Bumpkin to Master Swordsman II](https://anilist.co/anime/194829) - Score: 71/100
+4. [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2](https://anilist.co/anime/159309) - Score: 68/100
+5. [Clevatess Season 2](https://anilist.co/anime/198946) - Score: 75/100
+6. [Tomb Raider King](https://anilist.co/anime/184356) - Score: 66/100
+7. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
+8. [The Villager of Level 999](https://anilist.co/anime/197715) - Score: 61/100
+9. [Bleach](https://anilist.co/anime/269) - Score: 79/100
+10. [Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!](https://anilist.co/anime/192800) - Score: 70/100
