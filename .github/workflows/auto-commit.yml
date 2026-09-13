@@ -17,44 +17,36 @@ jobs:
       # Step 1: Check out your repository's code
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      # Step 2: Fetch Top 10 Trending Anime and Format List
+      # Step 2: Fetch and Format
       - name: Fetch and Format Anime List
         run: |
+          # 1. Setup the Markdown Header and Timestamp
           echo "### 📈 Top 10 Trending Anime" > ANIME_LIST.md
           echo "" >> ANIME_LIST.md
           echo "*Last updated on: $(TZ='Asia/Kolkata' date)*" >> ANIME_LIST.md
           echo "" >> ANIME_LIST.md
-          
-          # 1. Define the AniList GraphQL query (Top 10 Trending Anime)
-          QUERY='{"query": "query { Page(page: 1, perPage: 10) { media(type: ANIME, sort: TRENDING_DESC) { id title { romaji english } averageScore } } }"}'
-          
-          # 2. Make a POST request to the AniList API
-          RESPONSE=$(curl -s -X POST \
-            -H 'Content-Type: application/json' \
-            -H 'Accept: application/json' \
-            -d "$QUERY" \
-            https://graphql.anilist.co)
-          
+
+          # 2. Make a GET request to the Jikan API
+          RESPONSE=$(curl -s "https://api.jikan.moe/v4/top/anime?filter=airing&limit=10")
+
           # 3. Check if the response was successful
-          if echo "$RESPONSE" | jq -e '.data.Page.media' > /dev/null; then
-            # Data exists! Parse it using jq. 
-            # Note: AniList scores are out of 100, and links will now point to anilist.co
+          if echo "$RESPONSE" | jq -e '.data | length > 0' > /dev/null; then
+            # Data exists! Parse it using jq and append it (>>) to the file
             echo "$RESPONSE" | jq -r '
-              .data.Page.media 
+              .data 
               | to_entries 
-              | map("\(.key + 1). [\(.value.title.english // .value.title.romaji)](https://anilist.co/anime/\(.value.id)) - Score: \(.value.averageScore // "N/A")/100") 
+              | map("\(.key + 1). [\(.value.title_english // .value.title)](\(.value.url)) - Score: \(.value.score // "N/A")/10") 
               | join("\n")
             ' >> ANIME_LIST.md
             
-            echo "Successfully fetched anime list from AniList!"
+            echo "Successfully fetched anime list from Jikan API!"
           else
             # If it fails, print the error to the logs
-            echo "API Error: Failed to fetch data from AniList."
+            echo "API Error: Failed to fetch data from Jikan."
             echo "Raw Response: $RESPONSE"
-            exit 1
+            exit 1 
           fi
-
+          
       # Step 3: Update the README.md file with the new list
       # This uses a more robust Python script to replace the content between the markers.
       - name: Update README
