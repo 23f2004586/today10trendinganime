@@ -1,14 +1,14 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Fri Sep 25 10:40:14 IST 2026*
+*Last updated on: Fri Sep 25 22:52:10 IST 2026*
 
-1. [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) - Score: 81/100
-2. [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) - Score: 67/100
-3. [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) - Score: 90/100
-4. [Chainsmoker Cat](https://anilist.co/anime/207141) - Score: 67/100
-5. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
-6. [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) - Score: 85/100
-7. [From Old Country Bumpkin to Master Swordsman II](https://anilist.co/anime/194829) - Score: 71/100
-8. [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2](https://anilist.co/anime/159309) - Score: 69/100
-9. [Saga of Tanya the Evil Season 2](https://anilist.co/anime/135865) - Score: 80/100
-10. [Clevatess Season 2](https://anilist.co/anime/198946) - Score: 76/100
+1. [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) - Score: 83/100
+2. [Tensei Shitara Slime Datta Ken 4th Season Part 2](https://anilist.co/anime/217331) - Score: N/A/100
+3. [STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE](https://anilist.co/anime/210482) - Score: 84/100
+4. [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) - Score: 82/100
+5. [Chainsmoker Cat](https://anilist.co/anime/207141) - Score: 68/100
+6. [Kore Kaite Shine 2nd Season](https://anilist.co/anime/217329) - Score: N/A/100
+7. [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) - Score: 90/100
+8. [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) - Score: 67/100
+9. [Draw This, Then Die!](https://anilist.co/anime/188525) - Score: 78/100
+10. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
