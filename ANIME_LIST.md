@@ -1,14 +1,14 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sat Oct  3 11:03:03 IST 2026*
+*Last updated on: Sat Oct  3 22:02:54 IST 2026*
 
-1. [The Apothecary Diaries Season 3](https://anilist.co/anime/195516) - Score: N/A/100
-2. [STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE](https://anilist.co/anime/210482) - Score: 85/100
-3. [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) - Score: 90/100
-4. [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) - Score: 67/100
-5. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
-6. [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) - Score: 83/100
-7. [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) - Score: 86/100
-8. [Tokyo Revengers: Santen Sensou-hen](https://anilist.co/anime/178083) - Score: N/A/100
-9. [The Elusive Samurai Season 2](https://anilist.co/anime/182616) - Score: 76/100
-10. [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) - Score: 82/100
+1. [Black Clover Season 2](https://anilist.co/anime/195604) - Score: N/A/100
+2. [The Apothecary Diaries Season 3](https://anilist.co/anime/195516) - Score: 85/100
+3. [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) - Score: 71/100
+4. [A Tale of the Secret Saint](https://anilist.co/anime/187402) - Score: N/A/100
+5. [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) - Score: 76/100
+6. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
+7. [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) - Score: 90/100
+8. [STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE](https://anilist.co/anime/210482) - Score: 85/100
+9. [Romelia War Chronicle](https://anilist.co/anime/180894) - Score: N/A/100
+10. [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) - Score: 86/100
