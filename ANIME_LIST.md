@@ -1,14 +1,14 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Fri Oct  2 23:26:05 IST 2026*
+*Last updated on: Sat Oct  3 11:03:03 IST 2026*
 
 1. [The Apothecary Diaries Season 3](https://anilist.co/anime/195516) - Score: N/A/100
 2. [STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE](https://anilist.co/anime/210482) - Score: 85/100
 3. [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) - Score: 90/100
 4. [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) - Score: 67/100
-5. [The Elusive Samurai Season 2](https://anilist.co/anime/182616) - Score: 76/100
+5. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
 6. [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) - Score: 83/100
-7. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
+7. [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) - Score: 86/100
 8. [Tokyo Revengers: Santen Sensou-hen](https://anilist.co/anime/178083) - Score: N/A/100
-9. [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) - Score: 86/100
-10. [The Ramparts of Ice Season 2](https://anilist.co/anime/213805) - Score: 81/100
+9. [The Elusive Samurai Season 2](https://anilist.co/anime/182616) - Score: 76/100
+10. [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) - Score: 82/100
