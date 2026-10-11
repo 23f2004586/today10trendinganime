@@ -1,14 +1,14 @@
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Sun Oct 11 11:37:39 IST 2026*
+*Last updated on: Sun Oct 11 23:13:10 IST 2026*
 
-1. [Black Clover Season 2](https://anilist.co/anime/195604) - Score: 86/100
-2. [Even the Student Council Has Its Holes!](https://anilist.co/anime/191656) - Score: 73/100
-3. [Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!](https://anilist.co/anime/202250) - Score: 60/100
-4. [Magical Explorer](https://anilist.co/anime/169581) - Score: 68/100
-5. [The Apothecary Diaries Season 3](https://anilist.co/anime/195516) - Score: 85/100
-6. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
-7. [Black Clover](https://anilist.co/anime/97940) - Score: 79/100
-8. [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) - Score: 72/100
-9. [Firefly Wedding](https://anilist.co/anime/205909) - Score: 74/100
-10. [STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE](https://anilist.co/anime/210482) - Score: 85/100
+1. [Overgeared](https://anilist.co/anime/212888) - Score: 75/100
+2. [Dragon Ball Super: Beerus](https://anilist.co/anime/206814) - Score: N/A/100
+3. [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://anilist.co/anime/186541) - Score: 68/100
+4. [Black Clover Season 2](https://anilist.co/anime/195604) - Score: 87/100
+5. [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3](https://anilist.co/anime/185756) - Score: 71/100
+6. [Blue Box Season 2](https://anilist.co/anime/189123) - Score: 80/100
+7. [Full Clearing Another World under a Goddess with Zero Believers](https://anilist.co/anime/205896) - Score: N/A/100
+8. [Aoashi Season 2](https://anilist.co/anime/191788) - Score: 78/100
+9. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
+10. [Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé](https://anilist.co/anime/200455) - Score: 67/100
