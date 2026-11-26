@@ -4,17 +4,17 @@
 <!-- ANIME_LIST_START -->
 ### 📈 Top 10 Trending Anime
 
-*Last updated on: Thu Nov 26 14:13:08 IST 2026*
+*Last updated on: Fri Nov 27 03:15:55 IST 2026*
 
-1. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
-2. [Overgeared](https://anilist.co/anime/212888) - Score: 77/100
-3. [The World's Strongest Witch](https://anilist.co/anime/211778) - Score: 70/100
-4. [Reincarnated as a Sword Season 2](https://anilist.co/anime/159042) - Score: 75/100
-5. [The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life](https://anilist.co/anime/207329) - Score: 74/100
-6. [A Returner's Magic Should be Special Season 2](https://anilist.co/anime/172192) - Score: 69/100
-7. [Black Clover](https://anilist.co/anime/97940) - Score: 79/100
+1. [The Ramparts of Ice Season 2](https://anilist.co/anime/213805) - Score: 82/100
+2. [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) - Score: 67/100
+3. [Fool Night](https://anilist.co/anime/213457) - Score: 37/100
+4. [ONE PIECE](https://anilist.co/anime/21) - Score: 87/100
+5. [Overgeared](https://anilist.co/anime/212888) - Score: 77/100
+6. [The Iceblade Sorcerer Shall Rule the World II](https://anilist.co/anime/212503) - Score: 65/100
+7. [FX Fighter Kurumi-chan](https://anilist.co/anime/206401) - Score: 67/100
 8. [Black Clover Season 2](https://anilist.co/anime/195604) - Score: 88/100
-9. [The Apothecary Diaries Season 3](https://anilist.co/anime/195516) - Score: 85/100
-10. [Bleach](https://anilist.co/anime/269) - Score: 79/100
+9. [The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life](https://anilist.co/anime/207329) - Score: 74/100
+10. [Black Clover](https://anilist.co/anime/97940) - Score: 79/100
 
 <!-- ANIME_LIST_END -->
